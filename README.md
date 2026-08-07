@@ -5,9 +5,26 @@
 
 ## 🌐 Open Source Contributions
 
-[![strapi-plugin-better-blocks](https://img.shields.io/badge/Contributor-strapi--plugin--better--blocks-blue?logo=github)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
+<div>
+  <a href="https://github.com/k11k-labs/strapi-plugin-better-blocks">
+    <h3>📦 strapi-plugin-better-blocks</h3>
+  </a>
+  <p>An enhanced Rich Text (Blocks) editor for Strapi v5 with inline text color, background highlight, embeds, and more.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/k11k-labs/strapi-plugin-better-blocks?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/k11k-labs/strapi-plugin-better-blocks?style=flat-square" alt="Forks" />
+    <img src="https://img.shields.io/github/license/k11k-labs/strapi-plugin-better-blocks?style=flat-square" alt="License" />
+  </p>
+</div>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=k11k-labs&repo=strapi-plugin-better-blocks&theme=dark)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
+[![Repo Card](https://gh-card.dev/repos/k11k-labs/strapi-plugin-better-blocks.svg)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
+### 🛠️ Featured Contribution
+
+[![strapi-plugin-better-blocks](https://img.shields.io/badge/Contributor-strapi--plugin--better--blocks-blue?logo=github&style=for-the-badge)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
+
+![Stars](https://img.shields.io/github/stars/k11k-labs/strapi-plugin-better-blocks?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/k11k-labs/strapi-plugin-better-blocks?style=for-the-badge&logo=github)
+![License](https://img.shields.io/github/license/k11k-labs/strapi-plugin-better-blocks?style=for-the-badge)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/faizan.gondal.7146/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fazi__gondal/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@fazi__gondal?_t=8pPrcZKPnkI&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/codewithfazi) 
