@@ -3,6 +3,11 @@
 💫 About Me:
 🔭 I’m currently working on Markdown Editor<br>🌱 I’m currently learning Next js<br>👯 I’m looking to collaborate on Markdown Editor<br>👨‍💻 All of my projects are available at https://github.com/fazi-gondal<br>📝 I regularly write articles on https://faziblog.pages.dev/<br>
 
+## 🌐 Open Source Contributions
+
+[![strapi-plugin-better-blocks](https://img.shields.io/badge/Contributor-strapi--plugin--better--blocks-blue?logo=github)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=k11k-labs&repo=strapi-plugin-better-blocks&theme=dark)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/faizan.gondal.7146/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fazi__gondal/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@fazi__gondal?_t=8pPrcZKPnkI&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/codewithfazi) 
