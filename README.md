@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Faizan Gondal</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 💫 About Me:
 🔭 I’m currently working on Markdown Editor<br>🌱 I’m currently learning Next js<br>👯 I’m looking to collaborate on Markdown Editor<br>👨‍💻 All of my projects are available at https://github.com/fazi-gondal<br>📝 I regularly write articles on https://faziblog.pages.dev/<br>
