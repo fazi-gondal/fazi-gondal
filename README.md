@@ -3,7 +3,7 @@
 💫 About Me:
 🔭 I’m currently working on Markdown Editor<br>🌱 I’m currently learning Next js<br>👯 I’m looking to collaborate on Markdown Editor<br>👨‍💻 All of my projects are available at https://github.com/fazi-gondal<br>📝 I regularly write articles on https://faziblog.pages.dev/<br>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fazi-gondal&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fazi-gondal&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
 ***
 
