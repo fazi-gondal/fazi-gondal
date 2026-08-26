@@ -3,6 +3,14 @@
 💫 About Me:
 🔭 I’m currently working on Markdown Editor<br>🌱 I’m currently learning Next js<br>👯 I’m looking to collaborate on Markdown Editor<br>👨‍💻 All of my projects are available at https://github.com/fazi-gondal<br>📝 I regularly write articles on https://faziblog.pages.dev/<br>
 
+***
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazi-gondal&theme=holi&animation=load&name=Faizan+Gondal)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazi-gondal&theme=holi&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazi-gondal&theme=holi&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazi-gondal&theme=holi&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazi-gondal&theme=holi&animation=load&utcOffset=0)
+
 ## 🌐 Open Source Contributions
 
 <div>
