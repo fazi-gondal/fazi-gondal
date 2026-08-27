@@ -9,7 +9,7 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fazi-gondal&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fazi-gondal&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 ***
 
