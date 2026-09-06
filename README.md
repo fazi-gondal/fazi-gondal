@@ -36,21 +36,46 @@
 [![Repo Card](https://gh-card.dev/repos/k11k-labs/strapi-plugin-better-blocks.svg)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
 
 <div>
+  <a href="https://github.com/munimtechnologies/munim-ffmpeg">
+    <h3>📦 munim-ffmpeg</h3>
+  </a>
+  <p>FFmpeg integration and utilities for video/audio processing.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/munimtechnologies/munim-ffmpeg?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/munimtechnologies/munim-ffmpeg?style=flat-square" alt="Forks" />
+    <img src="https://img.shields.io/github/license/munimtechnologies/munim-ffmpeg?style=flat-square" alt="License" />
+  </p>
+</div>
+
+[![Repo Card](https://gh-card.dev/repos/munimtechnologies/munim-ffmpeg.svg)](https://github.com/munimtechnologies/munim-ffmpeg)
+
+<div>
+  <a href="https://github.com/devusimple/ytdlp-react-native">
+    <h3>📦 ytdlp-react-native</h3>
+  </a>
+  <p>yt-dlp wrapper implementation for React Native projects.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/devusimple/ytdlp-react-native?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/devusimple/ytdlp-react-native?style=flat-square" alt="Forks" />
+    <img src="https://img.shields.io/github/license/devusimple/ytdlp-react-native?style=flat-square" alt="License" />
+  </p>
+</div>
+
+[![Repo Card](https://gh-card.dev/repos/devusimple/ytdlp-react-native.svg)](https://github.com/devusimple/ytdlp-react-native)
+
+<div>
   <a href="https://github.com/sahilatahar/markdown2pdf">
-    <h3>📄 sahilatahar/markdown2pdf</h3>
+    <h3>📦 markdown2pdf</h3>
   </a>
   <p>An Impressive Markdown to PDF Converter!</p>
   <p>
-    <a href="https://github.com/sahilatahar/markdown2pdf">
-      <img src="https://img.shields.io/badge/Contributor-markdown2pdf-blue?logo=github&style=flat-square" alt="Contributor Badge" />
-    </a>
     <img src="https://img.shields.io/github/stars/sahilatahar/markdown2pdf?style=flat-square" alt="Stars" />
     <img src="https://img.shields.io/github/forks/sahilatahar/markdown2pdf?style=flat-square" alt="Forks" />
     <img src="https://img.shields.io/github/license/sahilatahar/markdown2pdf?style=flat-square" alt="License" />
   </p>
 </div>
 
-[![markdown2pdf Repo Card](https://gh-card.dev/repos/sahilatahar/markdown2pdf.svg)](https://github.com/sahilatahar/markdown2pdf)
+[![Repo Card](https://gh-card.dev/repos/sahilatahar/markdown2pdf.svg)](https://github.com/sahilatahar/markdown2pdf)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/faizan.gondal.7146/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fazi__gondal/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@fazi__gondal?_t=8pPrcZKPnkI&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/codewithfazi) 
