@@ -50,6 +50,20 @@
 [![Repo Card](https://gh-card.dev/repos/munimtechnologies/munim-ffmpeg.svg)](https://github.com/munimtechnologies/munim-ffmpeg)
 
 <div>
+  <a href="https://github.com/Dahab-Tech/react-native-media-editor">
+    <h3>📦 react-native-media-editor</h3>
+  </a>
+  <p>The React Native photo & video editor SDK for Expo — customizable, RTL-first, free and MIT-licensed.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/Dahab-Tech/react-native-media-editor?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/Dahab-Tech/react-native-media-editor?style=flat-square" alt="Forks" />
+    <img src="https://img.shields.io/github/license/Dahab-Tech/react-native-media-editor?style=flat-square" alt="License" />
+  </p>
+</div>
+
+[![Repo Card](https://gh-card.dev/repos/Dahab-Tech/react-native-media-editor.svg)](https://github.com/Dahab-Tech/react-native-media-editor)
+
+<div>
   <a href="https://github.com/devusimple/ytdlp-react-native">
     <h3>📦 ytdlp-react-native</h3>
   </a>
