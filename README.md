@@ -91,6 +91,37 @@
 
 [![Repo Card](https://gh-card.dev/repos/sahilatahar/markdown2pdf.svg)](https://github.com/sahilatahar/markdown2pdf)
 
+## ⚡ My Flet Packages
+
+<div>
+  <a href="https://github.com/fazi-gondal/Flet-media-library">
+    <h3>📦 flet-media-library</h3>
+  </a>
+  <p>Cross-platform media library extension for Flet — query albums, page through media, generate thumbnails, save, delete, move, and rename media on Android & iOS.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/fazi-gondal/Flet-media-library?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/fazi-gondal/Flet-media-library?style=flat-square" alt="Forks" />
+    <img src="https://img.shields.io/github/license/fazi-gondal/Flet-media-library?style=flat-square" alt="License" />
+  </p>
+</div>
+
+[![Repo Card](https://gh-card.dev/repos/fazi-gondal/Flet-media-library.svg)](https://github.com/fazi-gondal/Flet-media-library)
+
+<div>
+  <a href="https://github.com/fazi-gondal/flet-media-scanner">
+    <h3>📦 flet-media-scanner</h3>
+  </a>
+  <p>A Flet extension for Android MediaStore integration — save, list, and delete videos in the device Gallery without requiring broad storage permissions.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/fazi-gondal/flet-media-scanner?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/fazi-gondal/flet-media-scanner?style=flat-square" alt="Forks" />
+    <img src="https://img.shields.io/github/license/fazi-gondal/flet-media-scanner?style=flat-square" alt="License" />
+  </p>
+</div>
+
+[![Repo Card](https://gh-card.dev/repos/fazi-gondal/flet-media-scanner.svg)](https://github.com/fazi-gondal/flet-media-scanner)
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/faizan.gondal.7146/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fazi__gondal/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@fazi__gondal?_t=8pPrcZKPnkI&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/codewithfazi) 
 
