@@ -21,105 +21,26 @@
 
 ## 🌐 Open Source Contributions
 
-<div>
-  <a href="https://github.com/k11k-labs/strapi-plugin-better-blocks">
-    <h3>📦 strapi-plugin-better-blocks</h3>
-  </a>
-  <p>An enhanced Rich Text (Blocks) editor for Strapi v5 with inline text color, background highlight, embeds, and more.</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/k11k-labs/strapi-plugin-better-blocks?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/k11k-labs/strapi-plugin-better-blocks?style=flat-square" alt="Forks" />
-    <img src="https://img.shields.io/github/license/k11k-labs/strapi-plugin-better-blocks?style=flat-square" alt="License" />
-  </p>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=k11k-labs%2Fstrapi-plugin-better-blocks&theme=light_github_repocard)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
 
-[![Repo Card](https://gh-card.dev/repos/k11k-labs/strapi-plugin-better-blocks.svg)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=munimtechnologies%2Fmunim-ffmpeg&theme=light_github_repocard)](https://github.com/munimtechnologies/munim-ffmpeg)
 
-<div>
-  <a href="https://github.com/munimtechnologies/munim-ffmpeg">
-    <h3>📦 munim-ffmpeg</h3>
-  </a>
-  <p>FFmpeg integration and utilities for video/audio processing.</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/munimtechnologies/munim-ffmpeg?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/munimtechnologies/munim-ffmpeg?style=flat-square" alt="Forks" />
-    <img src="https://img.shields.io/github/license/munimtechnologies/munim-ffmpeg?style=flat-square" alt="License" />
-  </p>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=SectionTN%2Freact-native-codepad&theme=light_github_repocard)](https://github.com/SectionTN/react-native-codepad)
 
-[![Repo Card](https://gh-card.dev/repos/munimtechnologies/munim-ffmpeg.svg)](https://github.com/munimtechnologies/munim-ffmpeg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=Dahab-Tech%2Freact-native-media-editor&theme=light_github_repocard)](https://github.com/Dahab-Tech/react-native-media-editor)
 
-<div>
-  <a href="https://github.com/Dahab-Tech/react-native-media-editor">
-    <h3>📦 react-native-media-editor</h3>
-  </a>
-  <p>The React Native photo & video editor SDK for Expo — customizable, RTL-first, free and MIT-licensed.</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/Dahab-Tech/react-native-media-editor?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/Dahab-Tech/react-native-media-editor?style=flat-square" alt="Forks" />
-    <img src="https://img.shields.io/github/license/Dahab-Tech/react-native-media-editor?style=flat-square" alt="License" />
-  </p>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=egoist%2Fmygo&theme=light_github_repocard)](https://github.com/egoist/mygo)
 
-[![Repo Card](https://gh-card.dev/repos/Dahab-Tech/react-native-media-editor.svg)](https://github.com/Dahab-Tech/react-native-media-editor)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=devusimple%2Fytdlp-react-native&theme=light_github_repocard)](https://github.com/devusimple/ytdlp-react-native)
 
-<div>
-  <a href="https://github.com/devusimple/ytdlp-react-native">
-    <h3>📦 ytdlp-react-native</h3>
-  </a>
-  <p>yt-dlp wrapper implementation for React Native projects.</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/devusimple/ytdlp-react-native?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/devusimple/ytdlp-react-native?style=flat-square" alt="Forks" />
-    <img src="https://img.shields.io/github/license/devusimple/ytdlp-react-native?style=flat-square" alt="License" />
-  </p>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=sahilatahar%2Fmarkdown2pdf&theme=light_github_repocard)](https://github.com/sahilatahar/markdown2pdf)
 
-[![Repo Card](https://gh-card.dev/repos/devusimple/ytdlp-react-native.svg)](https://github.com/devusimple/ytdlp-react-native)
-
-<div>
-  <a href="https://github.com/sahilatahar/markdown2pdf">
-    <h3>📦 markdown2pdf</h3>
-  </a>
-  <p>An Impressive Markdown to PDF Converter!</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/sahilatahar/markdown2pdf?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/sahilatahar/markdown2pdf?style=flat-square" alt="Forks" />
-    <img src="https://img.shields.io/github/license/sahilatahar/markdown2pdf?style=flat-square" alt="License" />
-  </p>
-</div>
-
-[![Repo Card](https://gh-card.dev/repos/sahilatahar/markdown2pdf.svg)](https://github.com/sahilatahar/markdown2pdf)
 
 ## ⚡ My Flet Packages
 
-<div>
-  <a href="https://github.com/fazi-gondal/Flet-media-library">
-    <h3>📦 flet-media-library</h3>
-  </a>
-  <p>Cross-platform media library extension for Flet — query albums, page through media, generate thumbnails, save, delete, move, and rename media on Android & iOS.</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/fazi-gondal/Flet-media-library?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/fazi-gondal/Flet-media-library?style=flat-square" alt="Forks" />
-    <img src="https://img.shields.io/github/license/fazi-gondal/Flet-media-library?style=flat-square" alt="License" />
-  </p>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=fazi-gondal%2FFlet-media-library&theme=light_github_repocard)](https://github.com/fazi-gondal/Flet-media-library)
 
-[![Repo Card](https://gh-card.dev/repos/fazi-gondal/Flet-media-library.svg)](https://github.com/fazi-gondal/Flet-media-library)
-
-<div>
-  <a href="https://github.com/fazi-gondal/flet-media-scanner">
-    <h3>📦 flet-media-scanner</h3>
-  </a>
-  <p>A Flet extension for Android MediaStore integration — save, list, and delete videos in the device Gallery without requiring broad storage permissions.</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/fazi-gondal/flet-media-scanner?style=flat-square" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/fazi-gondal/flet-media-scanner?style=flat-square" alt="Forks" />
-    <img src="https://img.shields.io/github/license/fazi-gondal/flet-media-scanner?style=flat-square" alt="License" />
-  </p>
-</div>
-
-[![Repo Card](https://gh-card.dev/repos/fazi-gondal/flet-media-scanner.svg)](https://github.com/fazi-gondal/flet-media-scanner)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=fazi-gondal%2Fflet-media-scanner&theme=light_github_repocard)](https://github.com/fazi-gondal/flet-media-scanner)
 
 ---
 
