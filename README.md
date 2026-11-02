@@ -19,6 +19,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazi-gondal&theme=holi&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazi-gondal&theme=holi&animation=load&utcOffset=0)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fazi-gondal&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=fazi-gondal&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
+
 ## 🌐 Open Source Contributions
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fazi-gondal&repo=k11k-labs%2Fstrapi-plugin-better-blocks&theme=light_github_repocard)](https://github.com/k11k-labs/strapi-plugin-better-blocks)
