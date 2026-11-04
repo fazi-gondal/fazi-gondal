@@ -1,178 +1,147 @@
 # Hi, I'm Faizan Gondal 👋
 
-### Full-Stack Developer | Cross-Platform App Developer | Open-Source Contributor
+### Software Developer · Full-Stack & Cross-Platform Applications · Mobile & Native Development · Developer Tools & Libraries
 
-I'm a software developer who enjoys building practical applications, developer tools, and reusable libraries.
+I enjoy building useful software and working across different areas of application development. My projects range from cross-platform desktop and mobile applications to native integrations, developer libraries, and web-based tools.
 
-My work focuses on mobile and desktop applications, native platform integrations, and media-processing tools. I enjoy working across different technologies and turning ideas into applications that people can actually use.
+I focus on three connected areas:
 
-I primarily work with **Python, Flet, React Native, Expo, TypeScript, and Go**.
+- **Cross-platform software:** Building applications for desktop, mobile, and web with practical, maintainable user experiences.
+- **Mobile and native applications:** Developing mobile apps, native modules, and platform integrations for Android and iOS.
+- **Developer tools and libraries:** Creating reusable packages, extensions, SDK integrations, and tools that make development easier.
+
+I also work on full-stack web projects and enjoy learning how frameworks, runtimes, and native platform APIs fit together.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-- Building cross-platform applications with Python and Flet.
-- Developing mobile applications and native modules with React Native and Expo.
-- Creating reusable Flet extensions and Python packages.
-- Exploring native desktop application development with Go and MyGo.
-- Working with Android native APIs, media processing, yt-dlp, and FFmpeg.
-- Contributing to open-source projects and improving developer documentation.
+- Building and improving cross-platform applications with **Python, Flet, Go, and MyGo**.
+- Exploring **React Native and Expo native modules** and their Android integrations.
+- Working with **FFmpeg, FFprobe, yt-dlp**, and media-processing workflows.
+- Developing and maintaining reusable **Flet extensions and Python packages**.
+- Exploring cross-platform UI frameworks and native desktop development.
+- Contributing features, fixes, examples, and documentation to open-source projects.
 
 ---
 
 ## 🛠️ Featured Projects
 
-### Vidsaver
-A video downloader for mobile and desktop, built with Python, Flet, and yt-dlp.
+### [Vidsaver](https://github.com/fazi-gondal/Vidsaver)
+A cross-platform video downloader for **Windows and Android**, built with Python, Flet, and yt-dlp.
 
-- Android Gallery integration using MediaStore.
-- Video library, playback, and download management.
-- Windows and Android builds.
+- Download management and a built-in media library with playback.
+- Android Gallery publishing through MediaStore.
+- Windows portable and installer builds, plus Android APK releases.
 
-[Repository](https://github.com/fazi-gondal/Vidsaver)
+### [Video Downloader for MyGo](https://github.com/fazi-gondal/video-downloader-mygo)
+A native desktop media downloader and converter built with **Go, MyGo, yt-dlp, and FFmpeg**.
 
-### Video Downloader – MyGo
-A native Go desktop application built with MyGo, yt-dlp, and FFmpeg.
+- Video and playlist analysis, quality selection, and download queues.
+- Audio tracks, subtitles, and container selection.
+- Media conversion, download history, and desktop release builds.
 
-- Video and playlist extraction.
-- Download queues and history.
-- Audio, video, and subtitle selection.
-- Media conversion and processing.
+### [Flet Media Library](https://github.com/fazi-gondal/Flet-media-library)
+A reusable Flet service extension for accessing and managing device media on **Android and iOS**.
 
-[Repository](https://github.com/fazi-gondal/video-downloader-mygo)
+- Browse albums and photos, videos, and audio assets.
+- Load thumbnails, save media, and manage assets.
+- Built around Flet with Flutter/Dart-side media integration.
 
-### Flet Media Library
-A reusable Flet extension for accessing and managing device media.
+[GitHub](https://github.com/fazi-gondal/Flet-media-library) · [PyPI package](https://pypi.org/project/flet-media-library/)
 
-- Android and iOS support.
-- Photos, videos, and audio.
-- Album browsing and thumbnails.
-- Media saving, deletion, and management.
+### [Flet Media Scanner](https://github.com/fazi-gondal/flet-media-scanner)
+A Flet extension that integrates with **native Android MediaStore** using Kotlin.
 
-[Repository](https://github.com/fazi-gondal/Flet-media-library) · [PyPI](https://pypi.org/project/flet-media-library/)
+- Save, list, and delete videos in the device Gallery.
+- Uses scoped storage rather than requiring broad all-files access.
 
-### Flet Media Scanner
-An Android MediaStore extension for Flet, implemented using native Kotlin.
+[GitHub](https://github.com/fazi-gondal/flet-media-scanner) · [PyPI package](https://pypi.org/project/flet-media-scanner/)
 
-- Save videos to the device Gallery.
-- List and delete media.
-- Scoped storage integration without broad storage permissions.
+### [Video Downloader – Flet](https://github.com/fazi-gondal/Video-Downloader)
+A desktop media downloader and transcoder built with Python, Flet, yt-dlp, and FFmpeg. It explores media extraction, format selection, queues, subtitles, and conversion in a desktop application.
 
-[Repository](https://github.com/fazi-gondal/flet-media-scanner) · [PyPI](https://pypi.org/project/flet-media-scanner/)
+### [Markdown2PDF](https://github.com/fazi-gondal/md2pdf)
+A privacy-focused, browser-based Markdown editor and PDF converter with live preview, Markdown formatting, and client-side document processing.
 
-### Video Downloader – Flet
-A desktop media downloader and transcoder using Python, Flet, yt-dlp, and FFmpeg.
+[GitHub](https://github.com/fazi-gondal/md2pdf) · [Live demo](https://markdownd2pdf.vercel.app/)
 
-[Repository](https://github.com/fazi-gondal/Video-Downloader)
-
-### Markdown2PDF
-A privacy-focused Markdown editor and PDF converter with live preview and browser-side processing.
-
-[Repository](https://github.com/fazi-gondal/md2pdf) · [Live Demo](https://markdownd2pdf.vercel.app/)
-
----
-## 🌐 Open Source Contributions
-
-I enjoy contributing to open-source projects by implementing features, fixing bugs, improving documentation, adding practical examples, and making developer tools easier to use and integrate.
-
-Some projects I've contributed to:
-
-- **[MyGo](https://github.com/egoist/mygo)** – Added my native Go/MyGo Video Downloader application to the official community showcase. [PR #917](https://github.com/egoist/mygo/pull/917).
-- **[Strapi Plugins](https://github.com/qkix/strapi-plugins)** – Implemented Markdown paste support in the Better Blocks editor, including CommonMark and GFM parsing and conversion into native Slate nodes. [PR #84](https://github.com/qkix/strapi-plugins/pull/84).
-- **[react-native-media-editor](https://github.com/Dahab-Tech/react-native-media-editor)** – Improved platform support, native architecture, video-processing documentation, API references, and Expo example documentation. [PR #7](https://github.com/Dahab-Tech/react-native-media-editor/pull/7) · [PR #9 (Open)](https://github.com/Dahab-Tech/react-native-media-editor/pull/9).
-- **[Markdown2PDF](https://github.com/sahilatahar/markdown2pdf)** – Fixed PDF export issues, improved editor theming, implemented native file-saving improvements, and refined the download experience. [My merged PRs](https://github.com/sahilatahar/markdown2pdf/pulls?q=is%3Apr+author%3Afazi-gondal).
-- **[Awesome Flet](https://github.com/flet-dev/awesome-flet)** – Added my Flet applications, libraries, extensions, and demo projects to the community collection.
-- **[munim-ffmpeg](https://github.com/munimtechnologies/munim-ffmpeg)** – Improved React Native subtitle integration documentation, including soft subtitle embedding. [PR #4](https://github.com/munimtechnologies/munim-ffmpeg/pull/4).
-- **[ytdlp-react-native](https://github.com/devusimple/ytdlp-react-native)** – Improved usage documentation, social-media download guidance, and FFmpeg integration examples. [PR #1](https://github.com/devusimple/ytdlp-react-native/pull/1) · [PR #5](https://github.com/devusimple/ytdlp-react-native/pull/5).
-- **[react-native-codepad](https://github.com/SectionTN/react-native-codepad)** – Expanded API documentation, installation guidance, usage examples, and developer references. [PR #2](https://github.com/SectionTN/react-native-codepad/pull/2).
-
-I believe good open-source contributions are not limited to writing code. Implementing useful features, fixing real-world issues, improving documentation, and helping other developers use projects effectively are equally valuable parts of software development.
+### [UMOEditor](https://github.com/fazi-gondal/umoeditor)
+A Vue-based document editor built around UMO Editor, with rich-text editing, Markdown support, auto-save, and document management.
 
 ---
 
-## Tech Stack
+## 📦 Packages I Maintain
+
+I maintain and publish reusable Flet extensions for developers building applications with device-media features.
+
+| Package | Description | Links |
+| --- | --- | --- |
+| **flet-media-library** | Cross-platform media library access for Android and iOS. | [GitHub](https://github.com/fazi-gondal/Flet-media-library) · [PyPI](https://pypi.org/project/flet-media-library/) |
+| **flet-media-scanner** | Native Android MediaStore integration for Flet. | [GitHub](https://github.com/fazi-gondal/flet-media-scanner) · [PyPI](https://pypi.org/project/flet-media-scanner/) |
+
+---
+
+## 🌐 Open-Source Contributions
+
+I contribute to open-source projects through feature implementation, bug fixes, documentation, examples, and improvements to developer workflows.
+
+- **[MyGo](https://github.com/egoist/mygo)** – Added my Video Downloader application to the official community showcase. [PR #917](https://github.com/egoist/mygo/pull/917) · **Merged**.
+- **[Strapi Plugins](https://github.com/qkix/strapi-plugins)** – Implemented Markdown paste support for the Better Blocks editor, including CommonMark/GFM parsing and Markdown-to-Slate conversion. [PR #84](https://github.com/qkix/strapi-plugins/pull/84) · **Merged**.
+- **[react-native-media-editor](https://github.com/Dahab-Tech/react-native-media-editor)** – Improved platform-support and native-architecture documentation, video-processing behavior, API references, and the Expo example guide. [PR #7](https://github.com/Dahab-Tech/react-native-media-editor/pull/7) · **Merged**; [PR #9](https://github.com/Dahab-Tech/react-native-media-editor/pull/9) · **Open**.
+- **[Markdown2PDF](https://github.com/sahilatahar/markdown2pdf)** – Contributed fixes for PDF output, editor theming, Markdown file saving, and the download experience. [Merged PRs #9–#16](https://github.com/sahilatahar/markdown2pdf/pulls?q=is%3Apr+author%3Afazi-gondal).
+- **[Awesome Flet](https://github.com/flet-dev/awesome-flet)** – Added Flet applications, extensions, and demo projects to the community list. [PR #27](https://github.com/flet-dev/awesome-flet/pull/27), [#28](https://github.com/flet-dev/awesome-flet/pull/28), [#29](https://github.com/flet-dev/awesome-flet/pull/29), [#38](https://github.com/flet-dev/awesome-flet/pull/38), and [#40](https://github.com/flet-dev/awesome-flet/pull/40) · **Merged**.
+- **[munim-ffmpeg](https://github.com/munimtechnologies/munim-ffmpeg)** – Improved React Native subtitle-integration documentation, including soft subtitle embedding. [PR #4](https://github.com/munimtechnologies/munim-ffmpeg/pull/4) · **Merged**.
+- **[ytdlp-react-native](https://github.com/devusimple/ytdlp-react-native)** – Improved usage guidance, social-platform download notes, and FFmpeg integration documentation. [PR #1](https://github.com/devusimple/ytdlp-react-native/pull/1) and [PR #5](https://github.com/devusimple/ytdlp-react-native/pull/5) · **Merged**.
+- **[react-native-codepad](https://github.com/SectionTN/react-native-codepad)** – Expanded installation instructions, API documentation, usage examples, and developer references. [PR #2](https://github.com/SectionTN/react-native-codepad/pull/2) · **Merged**.
+
+I believe open-source work is not limited to writing new code. Improving an existing feature, fixing a real issue, documenting behavior clearly, and making a project easier for other developers to adopt are all valuable contributions.
+
+---
 
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,kotlin,dart,html,css,md,postgres&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,kotlin,dart,html,css&perline=8" alt="Python, TypeScript, JavaScript, Go, Kotlin, Dart, HTML, and CSS" />
 </p>
 
-## 🚀 Frameworks & Technologies
+**Also working with:** SQL and Markdown.
 
-**Web Development**
+## 🧰 Frameworks, Platforms & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vue,nodejs,express,vite&perline=9" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| **Web development** | React, Next.js, Vue 3, Astro, Node.js, Express, Vite |
+| **Mobile development** | React Native, Expo, Android development, Flutter/Dart extension development |
+| **Cross-platform & desktop** | Python, Flet, Go, MyGo |
+| **Backend, CMS & data** | Strapi, Sanitycms, Prisma, PostgreSQL, Supabase, Appwrite, TinaCMS, Keystatic, SQLite |
+| **UI, styling & editors** | Tailwind CSS, Material UI, Shadcn, Slate, CodeMirror, UMO Editor |
+| **Native & media** | Kotlin, Android MediaStore, FFmpeg, FFprobe, yt-dlp |
+| **Development workflow** | Git, GitHub, GitHub Actions, uv, npm, PyPI |
 
-**Mobile & Cross-Platform Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,expo,flutter,android&perline=9" />
-</p>
-
-**Desktop Development**
-
-- Flet
-- MyGo
-- Go native desktop development
-
-**Backend, CMS & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,appwrite,prisma,sqlite,mongodb&perline=9" />
-</p>
-
-- Strapi
-- Sanitycms
-- TinaCMS
-- Node.js
-
-**UI, Styling & Editor Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,figma&perline=9" />
-</p>
-
-- Slate
-- CodeMirror
-- UMO Editor
-
-**Native Development & Media Processing**
-
-- Android Native Development (Kotlin)
-- Dart / Flutter extensions
-- Android MediaStore
-- FFmpeg / FFprobe
-- yt-dlp
-
-**Tools & Development Workflow**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,npm,bun,deno,vercel,cloudflare&perline=10" />
-</p>
+These are technologies I've used across personal projects and open-source work; the depth of experience varies by tool and project.
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in building useful software, exploring new technologies, and collaborating on open-source projects.
-
-- **Website:** [Code With Fazi](https://codewithfazi.vercel.app/)
-- **GitHub:** [@fazi-gondal](https://github.com/fazi-gondal)
-- **X:** [@codewithfazi](https://twitter.com/codewithfazi)
-- **Instagram:** [@fazi__gondal](https://www.instagram.com/fazi__gondal/)
-
----
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=fazi-gondal&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, collaborate on useful software, and contribute to open-source projects.
+
+- **Portfolio:** [Code With Fazi](https://codewithfazi.vercel.app/)
+- **Email:** [fazigamingyt1@gmail.com](mailto:fazigamingyt1@gmail.com)
+- **GitHub:** [@fazi-gondal](https://github.com/fazi-gondal)
+- **X:** [@codewithfazi](https://twitter.com/codewithfazi)
+- **Instagram:** [@fazi__gondal](https://www.instagram.com/fazi__gondal/)
+
+---
+
 Thanks for visiting my profile! ⭐
-***
