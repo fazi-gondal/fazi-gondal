@@ -72,17 +72,22 @@ A privacy-focused Markdown editor and PDF converter with live preview and browse
 [Repository](https://github.com/fazi-gondal/md2pdf) · [Live Demo](https://markdownd2pdf.vercel.app/)
 
 ---
-
 ## 🌐 Open Source Contributions
 
-I enjoy contributing to projects by improving documentation, adding examples, fixing issues, and helping developers integrate tools more effectively.
+I enjoy contributing to open-source projects by implementing features, fixing bugs, improving documentation, adding practical examples, and making developer tools easier to use and integrate.
 
-Some of my contributions:
+Some projects I've contributed to:
 
-- [Awesome Flet](https://github.com/flet-dev/awesome-flet) – Added Flet packages, applications, and demo examples.
-- [munim-ffmpeg](https://github.com/munimtechnologies/munim-ffmpeg) – Improved React Native subtitle integration documentation.
-- [ytdlp-react-native](https://github.com/devusimple/ytdlp-react-native) – Added practical usage and FFmpeg integration guidance.
-- [react-native-codepad](https://github.com/SectionTN/react-native-codepad) – Improved API documentation and developer examples.
+- **[MyGo](https://github.com/egoist/mygo)** – Added my native Go/MyGo Video Downloader application to the official community showcase. [PR #917](https://github.com/egoist/mygo/pull/917).
+- **[Strapi Plugins](https://github.com/qkix/strapi-plugins)** – Implemented Markdown paste support in the Better Blocks editor, including CommonMark and GFM parsing and conversion into native Slate nodes. [PR #84](https://github.com/qkix/strapi-plugins/pull/84).
+- **[react-native-media-editor](https://github.com/Dahab-Tech/react-native-media-editor)** – Improved platform support, native architecture, video-processing documentation, API references, and Expo example documentation. [PR #7](https://github.com/Dahab-Tech/react-native-media-editor/pull/7) · [PR #9 (Open)](https://github.com/Dahab-Tech/react-native-media-editor/pull/9).
+- **[Markdown2PDF](https://github.com/sahilatahar/markdown2pdf)** – Fixed PDF export issues, improved editor theming, implemented native file-saving improvements, and refined the download experience. [My merged PRs](https://github.com/sahilatahar/markdown2pdf/pulls?q=is%3Apr+author%3Afazi-gondal).
+- **[Awesome Flet](https://github.com/flet-dev/awesome-flet)** – Added my Flet applications, libraries, extensions, and demo projects to the community collection.
+- **[munim-ffmpeg](https://github.com/munimtechnologies/munim-ffmpeg)** – Improved React Native subtitle integration documentation, including soft subtitle embedding. [PR #4](https://github.com/munimtechnologies/munim-ffmpeg/pull/4).
+- **[ytdlp-react-native](https://github.com/devusimple/ytdlp-react-native)** – Improved usage documentation, social-media download guidance, and FFmpeg integration examples. [PR #1](https://github.com/devusimple/ytdlp-react-native/pull/1) · [PR #5](https://github.com/devusimple/ytdlp-react-native/pull/5).
+- **[react-native-codepad](https://github.com/SectionTN/react-native-codepad)** – Expanded API documentation, installation guidance, usage examples, and developer references. [PR #2](https://github.com/SectionTN/react-native-codepad/pull/2).
+
+I believe good open-source contributions are not limited to writing code. Implementing useful features, fixing real-world issues, improving documentation, and helping other developers use projects effectively are equally valuable parts of software development.
 
 ---
 
