@@ -91,23 +91,68 @@ I believe good open-source contributions are not limited to writing code. Implem
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-**Languages**
+## 💻 Languages
 
-Python · TypeScript · JavaScript · Go · Kotlin
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,kotlin,dart,html,css,md,postgres&perline=9" />
+</p>
 
-**Frameworks & Application Development**
+## 🚀 Frameworks & Technologies
 
-Flet · React Native · Expo · React · Vue · MyGo
+**Web Development**
 
-**Native & Media Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vue,nodejs,express,vite&perline=9" />
+</p>
 
-Android MediaStore · yt-dlp · FFmpeg · Native Android Development
+**Mobile & Cross-Platform Development**
 
-**Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo,flutter,android&perline=9" />
+</p>
 
-Git · GitHub Actions · uv · npm · PyPI
+**Desktop Development**
+
+- Flet
+- MyGo
+- Go native desktop development
+
+**Backend, CMS & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,appwrite,prisma,sqlite,mongodb&perline=9" />
+</p>
+
+- Strapi
+- Sanitycms
+- TinaCMS
+- Node.js
+
+**UI, Styling & Editor Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,figma&perline=9" />
+</p>
+
+- Slate
+- CodeMirror
+- UMO Editor
+
+**Native Development & Media Processing**
+
+- Android Native Development (Kotlin)
+- Dart / Flutter extensions
+- Android MediaStore
+- FFmpeg / FFprobe
+- yt-dlp
+
+**Tools & Development Workflow**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,npm,bun,deno,vercel,cloudflare&perline=10" />
+</p>
 
 ---
 
