@@ -137,7 +137,7 @@ These are technologies I've used across personal projects and open-source work; 
 I'm always happy to connect with developers, collaborate on useful software, and contribute to open-source projects.
 
 - **Portfolio:** [Code With Fazi](https://codewithfazi.vercel.app/)
-- **Email:** [fazigamingyt1@gmail.com](mailto:fazigamingyt1@gmail.com)
+- **Email:** [nextinpk@gmail.com](mailto:nextinpk@gmail.com)
 - **GitHub:** [@fazi-gondal](https://github.com/fazi-gondal)
 - **X:** [@codewithfazi](https://twitter.com/codewithfazi)
 - **Instagram:** [@fazi__gondal](https://www.instagram.com/fazi__gondal/)
